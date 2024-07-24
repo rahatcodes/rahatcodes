@@ -12,9 +12,11 @@
  
  🔭 I’m currently working as a Frontend Developer at CHEMIUS and XploreBD
  
+ 🎓 Studying Computer Science & Engineering at University of Liberal Arts Bangladesh (ULAB).
+ 
  🌱 I’m currently learning **Data Structures and Algorithms**
 
-💬 Ask me about **Node.js, React, WordPress... or anything [here](https://www.rahatdev.tech)**
+💬 I'm dedicated to continuous learning and growth
 
 ⚡ Fun fact **You Should Cry Coding or Die Crying**
 
@@ -34,11 +36,18 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Editors & Tools ⚒️</h2>
+<h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <h3 align="center">⚒️ Editors & Tools </h3>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,github,wordpress,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,javascript,photoshop,illustrator,react,nextjs,cpp" /><br>
+    <h3 align="center">📋 Documentation </h3>
+     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /><br>
+    <h3 align="center">💻 Operating System </h3>
+     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
 </div>
 
 <br/>
