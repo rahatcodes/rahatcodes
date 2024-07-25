@@ -4,22 +4,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahat+Talukder!;" />
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahatcodes.rahatcodes" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahatcodes.rahatcodes" /><br>
 <h3 align="center">An enthusiast developer from Dhaka</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working as a Frontend Developer at CHEMIUS and XploreBD
- 
- 🎓 Studying Computer Science & Engineering at University of Liberal Arts Bangladesh (ULAB).
- 
- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-💬 I'm dedicated to continuous learning and growth
-
-⚡ Fun fact **You Should Cry Coding or Die Crying**
+ 🔭 I’m currently working as a Frontend Developer at CHEMIUS and XploreBD<br>
+ 🎓 Studying Computer Science & Engineering at University of Liberal Arts Bangladesh (ULAB).<br>
+ 🌱 I’m currently learning **Data Structures and Algorithms**<br>
+💬 I'm dedicated to continuous learning and growth<br>
+⚡ Fun fact **You Should Cry Coding or Die Crying**<br><br><br>
 
  </div>
  
