@@ -1,9 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahatcodes.rahatcodes" />
+<img align="right" width="150px" src="https://github.com/rahatcodes/rahatcodes/blob/main/Web-Sized-dark.png"/>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahat+Talukder!;" />
 </h1>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rahatcodes.rahatcodes" />
 <h3 align="center">An enthusiast developer from Dhaka</h3>
 
 <br/>
@@ -79,7 +80,9 @@
 <br/>
 
 <div align="center">
-<a href='https://rahatdev.tech' target='_blank'> Check Me Out </a>
+<a href="https://rahatdev.tech" target="_blank">
+     <img src="https://img.shields.io/badge/Check Me Out-FF5722?style=for-the-badge&logo=actix&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 <br/>
