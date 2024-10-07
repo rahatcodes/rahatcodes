@@ -13,7 +13,7 @@
  
  🔭 I’m currently working as a Frontend Developer at CHEMIUS and XploreBD<br>
  🎓 Studying Computer Science & Engineering at University of Liberal Arts Bangladesh (ULAB).<br>
- 🌱 I’m currently learning **Data Structures and Algorithms**<br>
+ 🌱 I’m currently learning **ReactJS**<br>
 💬 I'm dedicated to continuous learning and growth<br>
 ⚡ Fun fact **You Should Cry Coding or Die Crying**<br><br><br>
 
